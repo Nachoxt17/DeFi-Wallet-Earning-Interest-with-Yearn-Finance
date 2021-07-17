@@ -1,7 +1,7 @@
 {
   "name": "defi-wallet-earning-interest-with-yearn-finance",
   "version": "1.0.0",
-  "description": "",
+  "description": "+-Tutorial:_ https://youtu.be/PnrlVwBQdvc",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
